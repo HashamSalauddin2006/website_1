@@ -136,3 +136,33 @@ body{
 
 
 }
+.main_footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.footer {
+    color: white;
+    line-height: 210%;
+}
+.footer h1{
+    color:rgb(250, 92, 35);
+    text-transform: uppercase;
+    
+}
+
+.main_footer_abouts{
+    color: white;
+    line-height: 200%;
+}
+.main_footer_abouts h1{
+    color:rgb(250, 92, 35)
+}
+.main_footer_contect{
+    color: white;
+    line-height: 200%;
+}
+.main_footer_contect h1{
+    color:rgb(250, 92, 35);
+    text-transform: uppercase;
+}
